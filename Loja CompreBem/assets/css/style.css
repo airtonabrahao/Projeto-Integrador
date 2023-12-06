@@ -427,8 +427,40 @@ ul{
     height: 40px;
     margin-right: 10px;
     padding-left: 10px;
+    font-size: 20px;
     border: 1px solid var(--cor-padrao);
 }
+
+.ver-produto input:focus{
+    outline: none;
+}
+
+.ver-produto .btn{
+   border: none;
+   background: var(--cor-padrao);
+   height: 42px;
+   border-radius: 4px;
+    cursor: pointer;
+}
+
+.ver-produto .btn:hover{
+    background-color: var(--cor-btn);
+}
+
+.ver-produto .p{
+    font-size: 13px;
+}
+
+.img-linha{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-col{
+    flex-basis: 24%;
+    cursor: pointer;
+}
+
 
 
 /*--------MENU CELULAR--------*/
