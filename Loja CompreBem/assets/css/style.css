@@ -461,6 +461,10 @@ ul{
     cursor: pointer;
 }
 
+.cat{
+    margin-top: 10px;
+    margin-left: 99px;
+}
 /*--------MENU CELULAR--------*/
 
 @media only screen and (max-width: 800px){
