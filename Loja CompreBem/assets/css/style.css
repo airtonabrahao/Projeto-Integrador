@@ -461,8 +461,6 @@ ul{
     cursor: pointer;
 }
 
-
-
 /*--------MENU CELULAR--------*/
 
 @media only screen and (max-width: 800px){
@@ -522,4 +520,18 @@ ul{
     .novoMenu nav ul li a{
         color: var(--cor-btn-fonte);
      }
+
+     .ver-produto .col-2{
+        margin: 20px 0;
+     }
+
+     .ver-produto .linha{
+        text-align: left;
+     }
+
+     .ver-produto h1{
+        font-size: 26px;
+        line-height: 26px;
+     }
+     
 }

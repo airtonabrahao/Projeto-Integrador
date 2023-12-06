@@ -1,4 +1,4 @@
-var MenuItens = document.getElementsById("MenuItens");
+var MenuItens = document.getElementById("MenuItens");
 
 MenuItens.style.maxHeight = "0px";
 
@@ -10,21 +10,21 @@ function menucelular(){
     }
 }
 
-var produtoImg = document.getElementsById("produtosImg");
-var produtoMiniatura = document.getElementsByClassName("produtosMiniatura");
+var produtoImg = document.getElementById("produtoImg");
+var produtoMiniatura = document.getElementsByClassName("produtoMiniatura");
 
 produtoMiniatura[0].onclick = function(){
-    produtosImg.src = produtosMiniatura[0].src;
+    produtoImg.src = produtoMiniatura[0].src;
 }
 
 produtoMiniatura[1].onclick = function(){
-    produtosImg.src = produtosMiniatura[1].src;
+    produtoImg.src = produtoMiniatura[1].src;
 }
 
 produtoMiniatura[2].onclick = function(){
-    produtosImg.src = produtosMiniatura[2].src;
+    produtoImg.src = produtoMiniatura[2].src;
 }
 
 produtoMiniatura[3].onclick = function(){
-    produtosImg.src = produtosMiniatura[3].src;
+    produtoImg.src = produtoMiniatura[3].src;
 }
