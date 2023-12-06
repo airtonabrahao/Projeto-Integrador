@@ -1,0 +1,26 @@
+ <!--INICIO ITEM GALERIA-->
+                        <div class="img-col">
+                            <img src="assets/img/galeria-5.jpg" alt="" width="100%" class="produtoMiniatura">
+                        </div>
+                        <!--FIM ITEM GALERIA-->
+
+                        <!--INICIO ITEM GALERIA-->
+                        <div class="img-col">
+                            <img src="assets/img/galeria-2.jpg" alt="" width="100%" class="produtoMiniatura">
+                        </div>
+                        <!--FIM ITEM GALERIA-->
+
+                        <!--INICIO ITEM GALERIA-->
+                        <div class="img-col">
+                            <img src="assets/img/galeria-3.jpg" alt="" width="100%" class="produtoMiniatura">
+                        </div>
+                        <!--FIM ITEM GALERIA-->
+
+                        <!--INICIO ITEM GALERIA-->
+                        <div class="img-col">
+                            <img src="assets/img/galeria-4.jpg" alt="" width="100%" class="produtoMiniatura">
+                        </div>
+                        <!--FIM ITEM GALERIA-->
+
+                    </div>
+                    <!--FIM LINHA DA GALERIA-->

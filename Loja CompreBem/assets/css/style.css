@@ -383,6 +383,53 @@ ul{
     background: var(--cor-padrao);
 }
 
+/*--------DETALHES DO PRODUTO-----*/
+
+.ver-produto{
+    margin-top: 40px;
+}
+
+.ver-produto .col-2 img{
+    width: 100%;
+    padding: 0;
+}
+
+.ver-produto #produtoImg{
+    width: 600px;
+    height: 450px;
+    object-fit: cover;
+    object-position: top;
+}
+
+.ver-produto .col-2{
+    padding: 20px;   
+}
+
+.ver-produto h4{
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.ver-produto select{
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid var(--cor-padrao);
+}
+
+.ver-produto:focus{
+    outline: none;
+}
+
+.ver-produto input{
+    width: 50px;
+    height: 40px;
+    margin-right: 10px;
+    padding-left: 10px;
+    border: 1px solid var(--cor-padrao);
+}
+
 
 /*--------MENU CELULAR--------*/
 
