@@ -4,7 +4,7 @@ function connectDatabase(){
     $server = 'localhost';
     $user = 'root';
     $password = '';
-    $database = 'banco_de_dados_loja';
+    $database = 'banco_de_dados_j';
 
     $connection = mysqli_connect($server, $user, $password, $database);
 
